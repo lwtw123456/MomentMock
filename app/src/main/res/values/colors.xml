@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="sns_page_bg">#FFFFFFFF</color>
+    <color name="sns_nav_bg">#FFEDEDED</color>
+    <color name="sns_nav_title">#FF000000</color>
+
+    <color name="sns_card_bg">#FFF7F7F7</color>
+    <color name="sns_card_divider">#FFE5E5E5</color>
+    <color name="sns_comment_separator">#FFFFFFFF</color>
+
+    <color name="sns_name">#FF576B95</color>
+    <color name="sns_content">#E6000000</color>
+    <color name="sns_meta">#4D000000</color>
+    <color name="sns_location">#FF576B95</color>
+    <color name="sns_comment_text">#E5000000</color>
+    <color name="sns_comment_time">#4D000000</color>
+
+    <color name="sns_footer_bg">#FFF7F7F7</color>
+    <color name="sns_input_bg">#FFFFFFFF</color>
+    <color name="sns_input_hint">#FFB8B8B8</color>
+    <color name="sns_send_bg">#FFEDEDED</color>
+    <color name="sns_send_text">#FFB2B2B2</color>
+    <color name="sns_cursor_green">#FF1AAD19</color>
+</resources>

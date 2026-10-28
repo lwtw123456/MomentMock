@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="sns_side_padding">12dp</dimen>
+
+    <dimen name="sns_header_padding_top">16dp</dimen>
+    <dimen name="sns_header_padding_bottom">14dp</dimen>
+    <dimen name="sns_avatar_size">42dp</dimen>
+    <dimen name="sns_avatar_radius">4dp</dimen>
+    <dimen name="sns_avatar_gap">8dp</dimen>
+
+    <dimen name="sns_name_size">17dp</dimen>
+    <dimen name="sns_content_size">17dp</dimen>
+    <dimen name="sns_meta_size">14dp</dimen>
+    <dimen name="sns_meta_icon">14dp</dimen>
+
+    <dimen name="sns_like_padding_top">8dp</dimen>
+    <dimen name="sns_like_padding_bottom">6dp</dimen>
+    <dimen name="sns_like_padding_start">14dp</dimen>
+    <dimen name="sns_like_heart">20dp</dimen>
+    <dimen name="sns_like_avatar">32dp</dimen>
+    <dimen name="sns_like_gap">6dp</dimen>
+
+    <dimen name="sns_comment_row_padding">12dp</dimen>
+    <dimen name="sns_comment_icon">22dp</dimen>
+    <dimen name="sns_comment_icon_margin">14dp</dimen>
+    <dimen name="sns_comment_avatar">32dp</dimen>
+    <dimen name="sns_comment_name_size">15dp</dimen>
+    <dimen name="sns_comment_text_size">15dp</dimen>
+    <dimen name="sns_comment_time_size">12sp</dimen>
+
+    <dimen name="sns_footer_height">56dp</dimen>
+    <dimen name="sns_input_height">38dp</dimen>
+</resources>
