@@ -12,6 +12,8 @@
 
 示例见 `examples/`。
 
+![MomentMock](examples/example2.jpg)
+
 ## 功能
 
 - **发布人**：头像（内置 300 张头像库随机 / 从相册选）、昵称
